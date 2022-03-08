@@ -1,0 +1,39 @@
+body {
+    background: #fff3f5;
+}
+
+main {
+    width: 800px;
+    border: 4px;
+    margin: auto;
+    color: purple;
+    font-size: 18px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800%;
+  }
+
+header {
+    width: 800px;
+    margin: auto;
+    color: darkorchid;
+    font-size: 32px;
+}
+header {
+    /* display: block;
+    position: fixed;
+    text-decoration: center;
+    padding: 60px;
+    background: lightgray;
+    color: darkorchid; */
+    width: 500px;
+    margin: auto;
+}
+footer {
+    display: block;
+  }
+
